@@ -1,5 +1,25 @@
 [
   {
+    "name": "Biscord",
+    "description": "A real-time messaging web app enabling audio/video calls, file sharing, and infinite scroll chat built using Nextjs, Typescript, Websocket and TailwindCSS ",
+    "language": "TypeScript",
+    "owner": "bhaveek",
+    "link": "https://github.com/bhaveek424/biscord",
+    "stars": "1",
+    "forks": "0",
+    "languageColor": "#3178c6"
+  },
+  {
+    "name": "Quizter",
+    "description": "An AI-powered quiz app using Next.js, Typescript, Next-Auth, React-Query, OpenAI, Prisma, TailwindCSS ",
+    "language": "TypeScript",
+    "owner": "bhaveek",
+    "link": "https://github.com/bhaveek424/quizter",
+    "stars": "1",
+    "forks": "0",
+    "languageColor": "#3178c6"
+  },
+  {
     "name": "Appreciation",
     "description": "Social Networking App to appreciate your team members",
     "language": "TypeScript",
